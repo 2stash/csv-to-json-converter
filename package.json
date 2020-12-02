@@ -5,11 +5,18 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "author": "Daniel Westlund",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "concurrently": "^5.3.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "papaparse": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }

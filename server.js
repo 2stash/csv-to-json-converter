@@ -5,7 +5,8 @@ const app = express();
 app.use(express.json({extended: false}))
 
 app.get('/', (req,res) => {
-  console.log(req)
+
+  res.send('you made it')
 })
 app.use('/api/convert', require('./routes/api/convert'));
 
