@@ -1,0 +1,81 @@
+const data = [
+  {
+    page: "5",
+    kanji: "冒険",
+    hirigana: "ぼうけん",
+    definition: "adventure",
+  },
+  {
+    page: "5",
+    kanji: "夜明け",
+    hirigana: "よあけ",
+    definition: "dawn; daybreak;",
+  },
+  {
+    page: "5",
+    kanji: "迎える",
+    hirigana: "むかえる",
+    definition: " to approach",
+  },
+  {
+    page: "6",
+    kanji: "程",
+    hirigana: "ほど",
+    definition: "means ぐらい",
+  },
+  {
+    page: "8",
+    kanji: "停泊",
+    hirigana: "ていはく",
+    definition: " anchorage; moorings",
+  },
+  {
+    page: "8",
+    kanji: "気",
+    hirigana: "き",
+    definition: "何をするつもりですか",
+  },
+  {
+    page: "8",
+    kanji: "いたって",
+    hirigana: "very much; exceedingly; extremely;",
+    definition: "very much; exceedingly; extremely;",
+  },
+  { page: "9", kanji: "なんかじゃない", hirigana: "", definition: "" },
+  {
+    page: "9",
+    kanji: "証拠",
+    hirigana: "しょうこ",
+    definition: "evidence; proof",
+  },
+  {
+    page: "10",
+    kanji: "根性",
+    hirigana: "こんじょう",
+    definition: "willpower; guts; determination; grit; spirit;",
+  },
+  {
+    page: "10",
+    kanji: "見苦しい",
+    hirigana: "みぐるしい",
+    definition: " unsightly; ugly;",
+  },
+  {
+    page: "10",
+    kanji: "連れる",
+    hirigana: "つれる",
+    definition: "to lead; to take (a person);",
+  },
+  {
+    page: "11",
+    kanji: "致命的",
+    hirigana: "ちめいてき",
+    definition: "fatal; lethal;",
+  },
+  {
+    page: "12",
+    kanji: "吹き込む",
+    hirigana: "ふきこむ",
+    definition: "to inspire; to indoctrinate;",
+  },
+];
